@@ -15,10 +15,11 @@ The Pytorch implementation for::gift::gift::gift:
 -Cuda 11.3.1  
 -Cudnn 11.3  
 ```
-## Traing,Test and Visualization Process   
+## Training,Test and Visualization Process   
 
 ```bash
 python train_CGNet.py --epoch 50 --batchsize 8 --gpu_id '1' --data_name 'WHU' --model_name 'CGNet'
+
 python test.py --gpu_id '1' --data_name 'WHU' --model_name 'CGNet'
 ```
 ## Test our trained model result 
