@@ -15,14 +15,65 @@ The Pytorch implementation for::gift::gift::gift:
 -Cuda 11.3.1  
 -Cudnn 11.3  
 ```
+## Traing,Test and Visualization Process   
 
+```bash
+python train_CGNet.py --epoch 50 --batchsize 8 --gpu_id '1' --data_name 'WHU' --model_name 'CGNet'
+python test.py --gpu_id '1' --data_name 'WHU' --model_name 'CGNet'
+```
+## Test our trained model result 
+You can directly test our model by our provided training weights in  `output/WHU, LEVIR, SYSU, and S2Looking `.
+
+## Dataset Download   
+LEVIR-CD：https://justchenhao.github.io/LEVIR/  
+ 
+WHU-CD：http://gpcv.whu.edu.cn/data/building_dataset.html ,our paper split in [Baidu Disk](https://pan.baidu.com/s/16g3H1UsDMgqmXaVjiE319Q?pwd=6969),pwd:6969
+
+SYSU-CD:
+
+S2Looking-CD:
+
+Note: Please crop the LEVIR dataset to a slice of 256×256 before training with it.
+
+## Dataset Path Setting
+```
+ LEVIR-CD or WHU-CD or SYSU-CD or S2Looking-CD
+     |—train  
+          |   |—A  
+          |   |—B  
+          |   |—label  
+     |—val  
+          |   |—A  
+          |   |—B  
+          |   |—label  
+     |—test  
+          |   |—A  
+          |   |—B  
+          |   |—label
+  ```        
+ Where A contains images of the first temporal image, B contains images of the second temporal image, and label contains ground truth maps.  
+ 
 ![image-20230415](/picture/CGNet-2.png)
 ![image-20230415](/picture/CGNet-3.png)
 ![image-20230415](/picture/CGNet-4.png)
 ![image-20230415](/picture/CGNet-5.png)
 ![image-20230415](/picture/CGNet-6.png)
-CGNet:
 
-Our code will be released after the manuscript is accepted.
+## Citation 
 
-(Don't hesitate to tell me about the latest progress and useful methods in the CD field, I will spare no effort to thank you. Good luck to you guys, I wish we can be best friend in the CD field.)
+ If you use this code for your research, please cite our papers.  
+
+```
+@ARTICLE{10093022,
+  author={Han, Chengxi and Wu, Chen and Guo, Haonan and Hu, Meiqi and Jiepan Li, and Chen, Hongruixuan},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-17},
+  doi={10.1109/JSTARS.2023.3310208}}
+
+
+```
+
