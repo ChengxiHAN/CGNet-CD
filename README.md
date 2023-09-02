@@ -5,6 +5,11 @@ The Pytorch implementation for::gift::gift::gift:
 
 [2 Sep. 2023] Release the first version of the CGNet
 ![image-20230415](/picture/CGNet.png)
+![image-20230415](/picture/CGNet-2.png)
+![image-20230415](/picture/CGNet-3.png)
+![image-20230415](/picture/CGNet-4.png)
+![image-20230415](/picture/CGNet-5.png)
+![image-20230415](/picture/CGNet-6.png)
 CGNet:
 
 Our code will be released after the manuscript is accepted.
