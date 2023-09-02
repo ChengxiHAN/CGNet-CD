@@ -25,15 +25,15 @@ python test.py --gpu_id '1' --data_name 'WHU' --model_name 'CGNet'
 You can directly test our model by our provided training weights in  `output/WHU, LEVIR, SYSU, and S2Looking `.
 
 ## Dataset Download   
-LEVIR-CD：https://justchenhao.github.io/LEVIR/  
- 
-WHU-CD：http://gpcv.whu.edu.cn/data/building_dataset.html ,our paper split in [Baidu Disk](https://pan.baidu.com/s/16g3H1UsDMgqmXaVjiE319Q?pwd=6969),pwd:6969
+LEVIR-CD：https://justchenhao.github.io/LEVIR/  , our paper split in [Baidu Disk](https://pan.baidu.com/s/1VVry18KFl2MSWS6_IOlYRA?pwd=2023),pwd:2023 
 
-SYSU-CD:
+WHU-CD：http://gpcv.whu.edu.cn/data/building_dataset.html ,our paper split in [Baidu Disk](https://pan.baidu.com/s/1ZLmIyWvHnwyzhyl4xt-GwQ?pwd=2023),pwd:2023
 
-S2Looking-CD:
+SYSU-CD: Our paper split in [Baidu Disk](https://pan.baidu.com/s/1p0QfogZm4BM0dd1a0LTBBw?pwd=2023),pwd:2023
 
-Note: Please crop the LEVIR dataset to a slice of 256×256 before training with it.
+S2Looking-CD: Our paper split in [Baidu Disk](https://pan.baidu.com/s/1wAXPHhCLJTqPX0pC2RBMsg?pwd=2023),pwd:2023
+
+Note: Please crop all datasets to a slice of 256×256 before training with it.
 
 ## Dataset Path Setting
 ```
