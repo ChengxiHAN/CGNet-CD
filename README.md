@@ -24,7 +24,7 @@ python test.py --gpu_id '1' --data_name 'WHU' --model_name 'CGNet'
 ```
 You can change data_name for different datasets like "LEVIR", "WHU", "SYSU", "S2Looking", "CDD", and "DSIFN".
 ## Test our trained model result 
-You can directly test our model by our provided training weights in  `output/WHU, LEVIR, SYSU, S2Looking, CDD, and DSIFN `.
+You can directly test our model by our provided training weights in  `output/WHU, LEVIR, SYSU, S2Looking, CDD, and DSIFN `. And also we provide all test results of our CGNet in the CGNetTestResult!!!!:yum::yum::yum:
 
 ## Dataset Download   
 LEVIR-CD：https://justchenhao.github.io/LEVIR/  , our paper split in [Baidu Disk](https://pan.baidu.com/s/1VVry18KFl2MSWS6_IOlYRA?pwd=2023),pwd:2023 
@@ -64,6 +64,8 @@ Note: Please crop all datasets to a slice of 256×256 before training with it.
 ![image-20230415](/picture/CGNet-4.png)
 ![image-20230415](/picture/CGNet-5.png)
 ![image-20230415](/picture/CGNet-6.png)
+
+Although our proposed method of CGNet does not achieve the effect of SOTA on CDD-CD and DSIFN-CD datasets, we still provide our results here for the convenience of peer comparison experiments.
 ![image-20230415](/picture/CDD&DSIFN.png)
 
 
