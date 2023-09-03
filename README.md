@@ -22,8 +22,9 @@ python train_CGNet.py --epoch 50 --batchsize 8 --gpu_id '1' --data_name 'WHU' --
 
 python test.py --gpu_id '1' --data_name 'WHU' --model_name 'CGNet'
 ```
+You can change data_name for different datasets like "LEVIR","WHU","SYSU","S2Looking","CDD","DSIFN"
 ## Test our trained model result 
-You can directly test our model by our provided training weights in  `output/WHU, LEVIR, SYSU, and S2Looking `.
+You can directly test our model by our provided training weights in  `output/WHU, LEVIR, SYSU, and S2Looking, CDD, DSIFN `.
 
 ## Dataset Download   
 LEVIR-CD：https://justchenhao.github.io/LEVIR/  , our paper split in [Baidu Disk](https://pan.baidu.com/s/1VVry18KFl2MSWS6_IOlYRA?pwd=2023),pwd:2023 
