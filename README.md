@@ -70,6 +70,10 @@ Note: We crop all datasets to a slice of 256×256 before training with it.
 Although our proposed method of CGNet does not achieve the effect of SOTA on CDD-CD and DSIFN-CD datasets, we still provide our results here for the convenience of peer comparison experiments.
 ![image-20230415](/picture/CDD&DSIFN.png)
 
+## Acknowledgments
+ 
+Thanks to all my co-authors [Haonan Guo](https://scholar.google.com/citations?user=HvYxc84AAAAJ&hl=en),[Meiqi Hu](https://meiqihu.github.io/),[Jiepan Li](https://henryjiepanli.github.io/Jiepanli_Henry.github.io/), and [Hongruixuan Chen](https://chrx97.com/). Thanks  for their great work!!  
+
 
 ## Citation 
 
@@ -85,12 +89,7 @@ Although our proposed method of CGNet does not achieve the effect of SOTA on CDD
   number={},
   pages={1-17},
   doi={10.1109/JSTARS.2023.3310208}}
-
-
 ```
-## Acknowledgments
- 
-Thanks to all my co-authors [Haonan Guo](https://scholar.google.com/citations?user=HvYxc84AAAAJ&hl=en),[Meiqi Hu](https://meiqihu.github.io/),[Jiepan Li](https://henryjiepanli.github.io/Jiepanli_Henry.github.io/), and [Hongruixuan Chen](https://chrx97.com/). Thanks  for their great work!!  
 
 ## Reference  
 [1] C. HAN, C. WU, H. GUO, M. HU, J.Li, AND H. CHEN, 
