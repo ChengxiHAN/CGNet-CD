@@ -24,7 +24,7 @@ python test.py --gpu_id '1' --data_name 'WHU' --model_name 'CGNet'
 ```
 You can change data_name for different datasets like "LEVIR", "WHU", "SYSU", "S2Looking", "CDD", and "DSIFN".
 ## Test our trained model result 
-You can directly test our model by our provided training weights in  `output/WHU, LEVIR, SYSU, S2Looking, CDD, and DSIFN `. Download in  [Baidu Disk](https://pan.baidu.com/s/18wIxa6UHEQ4lvvXDpEjygw?pwd=2023),pwd:2023 :yum::yum::yum:
+You can directly test our model by our provided CGNet weights in  `output/WHU, LEVIR, SYSU, S2Looking, CDD, and DSIFN `. Download in  [Baidu Disk](https://pan.baidu.com/s/18wIxa6UHEQ4lvvXDpEjygw?pwd=2023),pwd:2023 :yum::yum::yum:
 
 And also we provide all test results of our CGNet in the CGNetTestResult!!!! Download in CGNetTestResult or [Baidu Disk](https://pan.baidu.com/s/1owj4sPTGqcCJ7dDiRzBhEg?pwd=2023 ),pwd:2023 :yum::yum::yum:
 
