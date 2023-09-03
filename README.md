@@ -64,6 +64,8 @@ Note: Please crop all datasets to a slice of 256×256 before training with it.
 ![image-20230415](/picture/CGNet-4.png)
 ![image-20230415](/picture/CGNet-5.png)
 ![image-20230415](/picture/CGNet-6.png)
+![image-20230415](/picture/CDD&DSIFN.png)
+
 
 ## Citation 
 
