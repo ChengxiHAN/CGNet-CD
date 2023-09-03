@@ -22,7 +22,7 @@ python train_CGNet.py --epoch 50 --batchsize 8 --gpu_id '1' --data_name 'WHU' --
 
 python test.py --gpu_id '1' --data_name 'WHU' --model_name 'CGNet'
 ```
-You can change data_name for different datasets like "LEVIR","WHU","SYSU","S2Looking","CDD","DSIFN"
+You can change data_name for different datasets like "LEVIR", "WHU", "SYSU", "S2Looking", "CDD", and "DSIFN".
 ## Test our trained model result 
 You can directly test our model by our provided training weights in  `output/WHU, LEVIR, SYSU, and S2Looking, CDD, DSIFN `.
 
@@ -34,6 +34,10 @@ WHU-CD：http://gpcv.whu.edu.cn/data/building_dataset.html ,our paper split in [
 SYSU-CD: Our paper split in [Baidu Disk](https://pan.baidu.com/s/1p0QfogZm4BM0dd1a0LTBBw?pwd=2023),pwd:2023
 
 S2Looking-CD: Our paper split in [Baidu Disk](https://pan.baidu.com/s/1wAXPHhCLJTqPX0pC2RBMsg?pwd=2023),pwd:2023
+
+CDD-CD: Our split in [Baidu Disk](https://pan.baidu.com/s/1cwJ0mEhcrbCWOJn5n-N5Jw?pwd=2023),pwd:2023
+
+DSIFN-CD: Our split in [Baidu Disk]( https://pan.baidu.com/s/1-GD3z_eMoQglSJoi9P-6gw?pwd=2023),pwd:2023
 
 Note: Please crop all datasets to a slice of 256×256 before training with it.
 
