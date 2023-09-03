@@ -41,7 +41,7 @@ CDD-CD: Our split in [Baidu Disk](https://pan.baidu.com/s/1cwJ0mEhcrbCWOJn5n-N5J
 
 DSIFN-CD: Our split in [Baidu Disk]( https://pan.baidu.com/s/1-GD3z_eMoQglSJoi9P-6gw?pwd=2023),pwd:2023
 
-Note: Please crop all datasets to a slice of 256×256 before training with it.
+Note: We crop all datasets to a slice of 256×256 before training with it.
 
 ## Dataset Path Setting
 ```
