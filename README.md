@@ -68,7 +68,7 @@ Note: We crop all datasets to a slice of 256×256 before training with it.
 ![image-20230415](/picture/CGNet-6.png)
 
 Although our proposed method of CGNet does not achieve the effect of SOTA on CDD-CD and DSIFN-CD datasets, we still provide our results here for the convenience of peer comparison experiments.
-![image-20230415](/picture/CDD&DSIFN.png)
+
 ![image-20230415](/picture/HANet-HCGMNet-CGNet.png)
 
 ## Acknowledgments
