@@ -5,6 +5,8 @@ The Pytorch implementation for::gift::gift::gift:
  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/change-guiding-network-incorporating-change/change-detection-on-levir-cd)](https://paperswithcode.com/sota/change-detection-on-levir-cd?p=change-guiding-network-incorporating-change)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/change-guiding-network-incorporating-change/change-detection-on-whu-cd)](https://paperswithcode.com/sota/change-detection-on-whu-cd?p=change-guiding-network-incorporating-change)
+
 [2 Sep. 2023] Release the first version of the CGNet
 ![image-20230415](/picture/CGNet.png)
 ### Requirement  
