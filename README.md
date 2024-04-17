@@ -7,6 +7,18 @@ The Pytorch implementation for::gift::gift::gift:
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/change-guiding-network-incorporating-change/change-detection-on-whu-cd)](https://paperswithcode.com/sota/change-detection-on-whu-cd?p=change-guiding-network-incorporating-change)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/change-guiding-network-incorporating-change/change-detection-on-cdd-dataset-season-1)](https://paperswithcode.com/sota/change-detection-on-cdd-dataset-season-1?p=change-guiding-network-incorporating-change)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/change-guiding-network-incorporating-change/change-detection-on-googlegz-cd)](https://paperswithcode.com/sota/change-detection-on-googlegz-cd?p=change-guiding-network-incorporating-change)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/change-guiding-network-incorporating-change/change-detection-on-levir)](https://paperswithcode.com/sota/change-detection-on-levir?p=change-guiding-network-incorporating-change)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/change-guiding-network-incorporating-change/change-detection-on-sysu-cd)](https://paperswithcode.com/sota/change-detection-on-sysu-cd?p=change-guiding-network-incorporating-change)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/change-guiding-network-incorporating-change/change-detection-on-dsifn-cd)](https://paperswithcode.com/sota/change-detection-on-dsifn-cd?p=change-guiding-network-incorporating-change)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/change-guiding-network-incorporating-change/change-detection-on-s2looking)](https://paperswithcode.com/sota/change-detection-on-s2looking?p=change-guiding-network-incorporating-change)
+
 [2 Sep. 2023] Release the first version of the CGNet
 ![image-20230415](/picture/CGNet.png)
 ### Requirement  
