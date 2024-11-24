@@ -1,4 +1,7 @@
 # CGNet-CD:https://chengxihan.github.io/
+
+You can still run HANet in the open-cd repository. https://github.com/likyoo/open-cd
+
 The Pytorch implementation for::gift::gift::gift:
 “[Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10234560?denied=),” IEEE J. SEL. TOP. APPL. EARTH OBS. REMOTE SENS., PP. 1–17, 2023, DOI: 10.1109/JSTARS.2023.3310208.
  C. HAN, C. WU, H. GUO, M. HU, J.Li AND H. CHEN, :yum::yum::yum:
